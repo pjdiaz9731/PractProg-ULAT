@@ -1,0 +1,14 @@
+/Users/pjdiaz/Desktop/Ulatina/Ulat-Prog2024/Colas/Colas/bin/Debug/net8.0/Colas
+/Users/pjdiaz/Desktop/Ulatina/Ulat-Prog2024/Colas/Colas/bin/Debug/net8.0/Colas.deps.json
+/Users/pjdiaz/Desktop/Ulatina/Ulat-Prog2024/Colas/Colas/bin/Debug/net8.0/Colas.runtimeconfig.json
+/Users/pjdiaz/Desktop/Ulatina/Ulat-Prog2024/Colas/Colas/bin/Debug/net8.0/Colas.dll
+/Users/pjdiaz/Desktop/Ulatina/Ulat-Prog2024/Colas/Colas/bin/Debug/net8.0/Colas.pdb
+/Users/pjdiaz/Desktop/Ulatina/Ulat-Prog2024/Colas/Colas/obj/Debug/net8.0/Colas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pjdiaz/Desktop/Ulatina/Ulat-Prog2024/Colas/Colas/obj/Debug/net8.0/Colas.AssemblyInfoInputs.cache
+/Users/pjdiaz/Desktop/Ulatina/Ulat-Prog2024/Colas/Colas/obj/Debug/net8.0/Colas.AssemblyInfo.cs
+/Users/pjdiaz/Desktop/Ulatina/Ulat-Prog2024/Colas/Colas/obj/Debug/net8.0/Colas.csproj.CoreCompileInputs.cache
+/Users/pjdiaz/Desktop/Ulatina/Ulat-Prog2024/Colas/Colas/obj/Debug/net8.0/Colas.dll
+/Users/pjdiaz/Desktop/Ulatina/Ulat-Prog2024/Colas/Colas/obj/Debug/net8.0/refint/Colas.dll
+/Users/pjdiaz/Desktop/Ulatina/Ulat-Prog2024/Colas/Colas/obj/Debug/net8.0/Colas.pdb
+/Users/pjdiaz/Desktop/Ulatina/Ulat-Prog2024/Colas/Colas/obj/Debug/net8.0/Colas.genruntimeconfig.cache
+/Users/pjdiaz/Desktop/Ulatina/Ulat-Prog2024/Colas/Colas/obj/Debug/net8.0/ref/Colas.dll
