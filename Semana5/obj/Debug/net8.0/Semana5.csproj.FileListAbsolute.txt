@@ -1,0 +1,15 @@
+/Users/pjdiaz/Desktop/Ulatina/PractProg-ULAT/Semana5/obj/Debug/net8.0/Semana5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pjdiaz/Desktop/Ulatina/PractProg-ULAT/Semana5/obj/Debug/net8.0/Semana5.AssemblyInfoInputs.cache
+/Users/pjdiaz/Desktop/Ulatina/PractProg-ULAT/Semana5/obj/Debug/net8.0/Semana5.AssemblyInfo.cs
+/Users/pjdiaz/Desktop/Ulatina/PractProg-ULAT/Semana5/obj/Debug/net8.0/Semana5.csproj.CoreCompileInputs.cache
+/Users/pjdiaz/Desktop/Ulatina/PractProg-ULAT/Semana5/obj/Debug/net8.0/Semana5.sourcelink.json
+/Users/pjdiaz/Desktop/Ulatina/PractProg-ULAT/Semana5/bin/Debug/net8.0/Semana5
+/Users/pjdiaz/Desktop/Ulatina/PractProg-ULAT/Semana5/bin/Debug/net8.0/Semana5.deps.json
+/Users/pjdiaz/Desktop/Ulatina/PractProg-ULAT/Semana5/bin/Debug/net8.0/Semana5.runtimeconfig.json
+/Users/pjdiaz/Desktop/Ulatina/PractProg-ULAT/Semana5/bin/Debug/net8.0/Semana5.dll
+/Users/pjdiaz/Desktop/Ulatina/PractProg-ULAT/Semana5/bin/Debug/net8.0/Semana5.pdb
+/Users/pjdiaz/Desktop/Ulatina/PractProg-ULAT/Semana5/obj/Debug/net8.0/Semana5.dll
+/Users/pjdiaz/Desktop/Ulatina/PractProg-ULAT/Semana5/obj/Debug/net8.0/refint/Semana5.dll
+/Users/pjdiaz/Desktop/Ulatina/PractProg-ULAT/Semana5/obj/Debug/net8.0/Semana5.pdb
+/Users/pjdiaz/Desktop/Ulatina/PractProg-ULAT/Semana5/obj/Debug/net8.0/Semana5.genruntimeconfig.cache
+/Users/pjdiaz/Desktop/Ulatina/PractProg-ULAT/Semana5/obj/Debug/net8.0/ref/Semana5.dll
