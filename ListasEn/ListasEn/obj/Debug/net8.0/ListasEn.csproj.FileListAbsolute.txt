@@ -1,0 +1,15 @@
+/Users/pjdiaz/Desktop/Ulatina/PractProg-ULAT/ListasEn/ListasEn/bin/Debug/net8.0/ListasEn
+/Users/pjdiaz/Desktop/Ulatina/PractProg-ULAT/ListasEn/ListasEn/bin/Debug/net8.0/ListasEn.deps.json
+/Users/pjdiaz/Desktop/Ulatina/PractProg-ULAT/ListasEn/ListasEn/bin/Debug/net8.0/ListasEn.runtimeconfig.json
+/Users/pjdiaz/Desktop/Ulatina/PractProg-ULAT/ListasEn/ListasEn/bin/Debug/net8.0/ListasEn.dll
+/Users/pjdiaz/Desktop/Ulatina/PractProg-ULAT/ListasEn/ListasEn/bin/Debug/net8.0/ListasEn.pdb
+/Users/pjdiaz/Desktop/Ulatina/PractProg-ULAT/ListasEn/ListasEn/obj/Debug/net8.0/ListasEn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pjdiaz/Desktop/Ulatina/PractProg-ULAT/ListasEn/ListasEn/obj/Debug/net8.0/ListasEn.AssemblyInfoInputs.cache
+/Users/pjdiaz/Desktop/Ulatina/PractProg-ULAT/ListasEn/ListasEn/obj/Debug/net8.0/ListasEn.AssemblyInfo.cs
+/Users/pjdiaz/Desktop/Ulatina/PractProg-ULAT/ListasEn/ListasEn/obj/Debug/net8.0/ListasEn.csproj.CoreCompileInputs.cache
+/Users/pjdiaz/Desktop/Ulatina/PractProg-ULAT/ListasEn/ListasEn/obj/Debug/net8.0/ListasEn.sourcelink.json
+/Users/pjdiaz/Desktop/Ulatina/PractProg-ULAT/ListasEn/ListasEn/obj/Debug/net8.0/ListasEn.dll
+/Users/pjdiaz/Desktop/Ulatina/PractProg-ULAT/ListasEn/ListasEn/obj/Debug/net8.0/refint/ListasEn.dll
+/Users/pjdiaz/Desktop/Ulatina/PractProg-ULAT/ListasEn/ListasEn/obj/Debug/net8.0/ListasEn.pdb
+/Users/pjdiaz/Desktop/Ulatina/PractProg-ULAT/ListasEn/ListasEn/obj/Debug/net8.0/ListasEn.genruntimeconfig.cache
+/Users/pjdiaz/Desktop/Ulatina/PractProg-ULAT/ListasEn/ListasEn/obj/Debug/net8.0/ref/ListasEn.dll
